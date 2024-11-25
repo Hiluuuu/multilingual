@@ -1,0 +1,18 @@
+{
+    "home": {
+      "welcome": "Willkommen in unserer mehrsprachigen App",
+      "currentLanguage": "Aktuelle Sprache",
+      "about": {
+        "title": "Über unsere mehrsprachige Website",
+        "description": "Diese Website demonstriert die Fähigkeit, mehrere Sprachen mit Next.js 15 und dem App Router zu verwalten.",
+        "supportedLanguages": "Wir unterstützen Englisch, Französisch, Deutsch und Japanisch."
+      },
+      "readBlogPost": "Lesen Sie meinen ersten Blogbeitrag"
+    },
+    "blog": {
+      "backToHome": "Zurück zur Startseite",
+      "lastUpdated": "Zuletzt aktualisiert"
+    }
+  }
+  
+  

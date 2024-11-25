@@ -1,0 +1,18 @@
+{
+    "home": {
+      "welcome": "多言語アプリへようこそ",
+      "currentLanguage": "現在の言語",
+      "about": {
+        "title": "多言語サイトについて",
+        "description": "このサイトは、Next.js 15とApp Routerを使用して複数の言語を処理する機能を示しています。",
+        "supportedLanguages": "英語、フランス語、ドイツ語、日本語をサポートしています。"
+      },
+      "readBlogPost": "最初のブログ投稿を読む"
+    },
+    "blog": {
+      "backToHome": "ホームに戻る",
+      "lastUpdated": "最終更新日"
+    }
+  }
+  
+  
