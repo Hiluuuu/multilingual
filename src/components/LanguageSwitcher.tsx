@@ -22,7 +22,7 @@ export default function LanguageSwitcher({ currentLang }: LanguageSwitcherProps)
         <Link
           key={locale}
           href={locale === defaultLocale ? '/' : `/${locale}`}
-          className={`px-2 py-2 rounded-md transition duration-300 ease-in-out ${
+          className={`px-4 py-2 rounded-md transition duration-300 ease-in-out ${
             currentLang === locale
               ? 'bg-blue-500 text-white'
               : 'bg-gray-200 text-gray-700 hover:bg-blue-100'
